@@ -1,0 +1,240 @@
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-LightItalic.woff2') format('woff2'),
+        url('Mont-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-ExtraBoldItalic.woff2') format('woff2'),
+        url('Spectral-ExtraBoldItalic.woff') format('woff');
+    font-weight: 800;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-Bold.woff2') format('woff2'),
+        url('Mont-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-ExtraBold.woff2') format('woff2'),
+        url('Spectral-ExtraBold.woff') format('woff');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-Light.woff2') format('woff2'),
+        url('Spectral-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-Heavy.woff2') format('woff2'),
+        url('Mont-Heavy.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-Italic.woff2') format('woff2'),
+        url('Spectral-Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-ThinItalic.woff2') format('woff2'),
+        url('Mont-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-RegularItalic.woff2') format('woff2'),
+        url('Mont-RegularItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-Thin.woff2') format('woff2'),
+        url('Mont-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-LightItalic.woff2') format('woff2'),
+        url('Spectral-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-SemiBold.woff2') format('woff2'),
+        url('Spectral-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-BlackItalic.woff2') format('woff2'),
+        url('Mont-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-BoldItalic.woff2') format('woff2'),
+        url('Mont-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-ExtraLightItalic.woff2') format('woff2'),
+        url('Mont-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-SemiBoldItalic.woff2') format('woff2'),
+        url('Spectral-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-Regular.woff2') format('woff2'),
+        url('Mont-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-BoldItalic.woff2') format('woff2'),
+        url('Spectral-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-Medium.woff2') format('woff2'),
+        url('Spectral-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-ExtraLight.woff2') format('woff2'),
+        url('Spectral-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-SemiBold.woff2') format('woff2'),
+        url('Mont-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-HeavyItalic.woff2') format('woff2'),
+        url('Mont-HeavyItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-Light.woff2') format('woff2'),
+        url('Mont-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-Bold.woff2') format('woff2'),
+        url('Spectral-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-Regular.woff2') format('woff2'),
+        url('Spectral-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-ExtraLightItalic.woff2') format('woff2'),
+        url('Spectral-ExtraLightItalic.woff') format('woff');
+    font-weight: 200;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-ExtraLight.woff2') format('woff2'),
+        url('Mont-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Spectral';
+    src: url('Spectral-MediumItalic.woff2') format('woff2'),
+        url('Spectral-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-SemiBoldItalic.woff2') format('woff2'),
+        url('Mont-SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Mont';
+    src: url('Mont-Black.woff2') format('woff2'),
+        url('Mont-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+}
+

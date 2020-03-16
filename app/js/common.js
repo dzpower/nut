@@ -1,5 +1,3 @@
-$(function() {
-
-	// Custom JS
-
-});
+(function(){
+   console.log(1);
+})()
